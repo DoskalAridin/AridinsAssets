@@ -1,0 +1,34 @@
+class CfgPatches 
+{ 
+    class ARDN_m90
+    { 
+        units[] = {}; 
+        weapons[] = {}; 
+        requiredVersion = 0.1; 
+        requiredAddons[] = {"A3_Characters_F_Beta","ARDN_main"};
+    }; 
+}; 
+
+
+class CfgVehicles
+{
+	class I_E_Uniform_01_F;
+	class ARDN_m90_Uniform: I_E_Uniform_01_F
+	{
+		author = "Doskal Aridin";
+		faction = "ARDN_fac_caf";
+		model = "\a3\Characters_F_Enoch\Uniforms\I_E_Soldier_01_F.p3d";
+		uniformClass = "ARDN_U_m90_Uniform";
+		hiddenSelections[] = {"camo1","camo2","camo3","insignia"};
+		hiddenSelectionsTextures[] = {
+			"\ARDN_CAF\data\officer_cadpat.paa",
+			"\ARDN_CAF\data\clothing_cadpat.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_gloves_camo_co.paa"
+			};
+	};
+};
+
+class CfgWeapons
+{
+
+};
