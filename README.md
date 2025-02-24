@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/github%20Files/icon.png" width="480">
+    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/Github%20Files/icon.jpg" width="480">
 </p>
 
 # Aridin's Assets
@@ -21,17 +21,17 @@ Steam workshop:<br/>
 ### Images
 
 <p align="left">
-    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/github%20Files/image1.png" width="480">
+    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/Github%20Files/image3.jpg" width="480">
 </p>
 <p align="left">
-    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/github%20Files/image2.png" width="480">
+    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/Github%20Files/image4.jpg" width="480">
 </p>
 <p align="left">
-    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/github%20Files/image3.png" width="480">
+    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/Github%20Files/image5.jpg" width="480">
 </p>
 <p align="left">
-    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/github%20Files/image4.png" width="480">
+    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/Github%20Files/image1.jpg" width="480">
 </p>
 <p align="left">
-    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/github%20Files/image5.png" width="480">
+    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/Github%20Files/image2.jpg" width="480">
 </p>
