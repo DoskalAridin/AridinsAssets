@@ -1,17 +1,37 @@
 <p align="center">
-    <img src="https://github.com/DoskalAridin/WarEffort/blob/main/github%20Files/preview_1.png" width="480">
+    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/github%20Files/icon.png" width="480">
 </p>
 
 # Aridin's Assets
+Mod contains a mix of retextured, modified, and custom assets.<br/>
+Made and developed for my own personal use, but shared on the workshop for anyone else to use.
 <br/>
 Steam workshop:<br/>
 [Aridin's Assets](https://steamcommunity.com/sharedfiles/filedetails/?id=2100341126)<br/>
 <br/>
->Description
 
 ## Features
 
-- Feature 1
-- Feature 2
+- Radio backpack retextures
+- Radio packs have increased capacity (increased by the weight of ACRE's PRC-117)
+- CSAT fatigue retextures
+- Custom factions "Gekko's Ghosts", "The Oganization", and "Void Entities"
+- "Void blocks", solid white/black blocks (similar to VR blocks)
+- various other things
+### Images
 
-### Sub detail
+<p align="left">
+    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/github%20Files/image1.png" width="480">
+</p>
+<p align="left">
+    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/github%20Files/image2.png" width="480">
+</p>
+<p align="left">
+    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/github%20Files/image3.png" width="480">
+</p>
+<p align="left">
+    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/github%20Files/image4.png" width="480">
+</p>
+<p align="left">
+    <img src="https://github.com/DoskalAridin/AridinsAssets/blob/main/github%20Files/image5.png" width="480">
+</p>
